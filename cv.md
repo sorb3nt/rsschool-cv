@@ -23,3 +23,19 @@ In 2022, I stumbled upon free online programming courses from RS-School and deci
 Studio of polygraphy iCan  
 Responsibilities:  
 Creating, editing, printing various types of polygraphy products
+
+---
+
+### Education
+
+**2010 - 2014**  
+Bachelor’s Degree  
+National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"  
+Specialty: "Optical Technologies"  
+Full-time form of study
+
+**2006 - 2010**  
+Diploma of Junior Specialist  
+State Higher Educational Institution "Kyiv Energetic College"  
+Specialty: "Installation and operation of equipment for nuclear power plants"  
+Full-time form of study
