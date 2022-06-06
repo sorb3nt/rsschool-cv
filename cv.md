@@ -39,3 +39,11 @@ Diploma of Junior Specialist
 State Higher Educational Institution "Kyiv Energetic College"  
 Specialty: "Installation and operation of equipment for nuclear power plants"  
 Full-time form of study
+
+---
+
+### Languages proficiencies
+
+- Ukrainian - native speaker
+- Russian - native speaker
+- English - elementary
