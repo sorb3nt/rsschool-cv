@@ -1,0 +1,14 @@
+body {
+    background-color:bisque;
+}
+
+.container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0px 40px 30px;
+}
+
+.avatar {
+    border: solid 5px rgba(0, 0, 0, 0.747);
+    border-radius: 30px;
+}
