@@ -47,3 +47,9 @@ Full-time form of study
 - Ukrainian - native speaker
 - Russian - native speaker
 - English - elementary
+
+---
+
+### Additional information
+
+I'm responsible, have logical thinking, purposeful, without bad habits
