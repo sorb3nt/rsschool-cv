@@ -1,0 +1,9 @@
+body {
+    background-color:bisque;
+}
+
+.container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0px 40px 30px;
+}
